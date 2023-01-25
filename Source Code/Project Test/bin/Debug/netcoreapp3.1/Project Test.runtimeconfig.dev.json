@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bliss\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bliss\\.nuget\\packages"
+    ]
+  }
+}

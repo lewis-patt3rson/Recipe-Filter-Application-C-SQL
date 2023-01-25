@@ -1,0 +1,24 @@
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\Project Test.exe
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\Project Test.deps.json
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\Project Test.runtimeconfig.json
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\Project Test.runtimeconfig.dev.json
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\Project Test.dll
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\Project Test.pdb
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bliss\source\repos\Project Test\Project Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project Test.csproj.AssemblyReference.cache
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project_Test.Form1.resources
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project Test.csproj.GenerateResource.cache
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project Test.AssemblyInfoInputs.cache
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project Test.AssemblyInfo.cs
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project Test.csproj.CoreCompileInputs.cache
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project Test.csproj.CopyComplete
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project Test.dll
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project Test.pdb
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project Test.genruntimeconfig.cache
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project_Test.FrmAddIngredient.resources
+C:\Users\bliss\source\repos\Project Test\Project Test\obj\Debug\netcoreapp3.1\Project_Test.FrmCreateUser.resources
